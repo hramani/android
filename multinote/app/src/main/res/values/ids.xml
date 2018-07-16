@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="infobutton" type="id">infoid</item>
+    <item name="add" type="id">addid</item>
+    <item name="addid" type="id">add</item>
+</resources>

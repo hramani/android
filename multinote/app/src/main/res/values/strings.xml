@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">multinote</string>
+    <string name="addid">addnote</string>
+    <string name="infoid">informations</string>
+    <string name="infoidd">TextView</string>
+    <string name="infotext">TextView</string>
+    <string name="no_file">No Notes File Present</string>
+    <string name="objectntnull">object is not null</string>
+    <string name="objectnull">object is null</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="radio1">Farenheit To Celcious</string>
+    <string name="radio2">Celcious To Farenheit</string>
+    <string name="inputtext" />
+    <string name="inputhint">Enter Temperature</string>
+    <string name="anstext" />
+    <string name="anshint">Answer</string>
+    <string name="button">Convert</string>
+    <string name="method">convertMethod</string>
+    <string name="historytext" />
+    <string name="resetbutton">Reset</string>
+</resources>

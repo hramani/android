@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_infoactivity"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.hiralramani.multinote.infoactivity"
+    android:background="@drawable/infoimg"
+    >
+
+    <TextView
+        android:text="Multi-Notes"
+        android:layout_width="352dp"
+        android:layout_height="73dp"
+        android:id="@+id/infotext1"
+        tools:text="Multi Notes"
+        android:foregroundGravity="center_horizontal|center"
+        android:gravity="center"
+        tools:ignore="HardcodedText"
+        android:layout_marginStart="8dp"
+        tools:layout_constraintLeft_creator="1"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginLeft="8dp"
+        android:layout_marginEnd="8dp"
+        app:layout_constraintRight_toRightOf="parent"
+        android:layout_marginRight="8dp"
+        android:layout_marginTop="32dp"
+        app:layout_constraintTop_toTopOf="parent"
+        android:textSize="18sp"
+        android:textColor="@color/colorPrimary" />
+
+    <TextView
+        android:text="© 2017, Hiral Ramani"
+        android:layout_width="0dp"
+        android:layout_height="60dp"
+        android:id="@+id/infotext2"
+        tools:text="Multi Notes"
+        android:foregroundGravity="center_horizontal|center"
+        android:gravity="center"
+        tools:ignore="HardcodedText"
+        app:layout_constraintLeft_toLeftOf="@+id/infotext1"
+        app:layout_constraintRight_toRightOf="@+id/infotext1"
+        app:layout_constraintHorizontal_bias="1.0"
+        android:layout_marginTop="88dp"
+        app:layout_constraintTop_toBottomOf="@+id/infotext1"
+        android:textSize="18sp"
+        android:textColor="@color/colorPrimary" />
+
+    <TextView
+        android:text="Version 1.0"
+        android:layout_width="347dp"
+        android:layout_height="51dp"
+        android:id="@+id/infotext3"
+        tools:text="Multi Notes"
+        android:foregroundGravity="center_horizontal|center"
+        android:gravity="center"
+        tools:ignore="HardcodedText"
+        app:layout_constraintRight_toRightOf="@+id/infotext2"
+        app:layout_constraintLeft_toLeftOf="@+id/infotext2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginBottom="16dp"
+        app:layout_constraintTop_toBottomOf="@+id/infotext2"
+        android:textSize="18sp"
+        android:textColor="@color/colorPrimary" />
+
+</android.support.constraint.ConstraintLayout>
