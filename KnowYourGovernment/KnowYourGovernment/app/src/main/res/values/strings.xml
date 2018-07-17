@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="about">string</string>
+    <string name="location">string</string>
+    <string name="Address">Address</string>
+    <string name="Phone">Phone :</string>
+    <string name="Email">Email :</string>
+    <string name="NoData">No Data Provided</string>
+    <string name="Website">Website :</string>
+    <string name="know_your_government_2017_shraddha_vijay_mahadik_version_1_0">Know Your Government ©2017, Shraddha Vijay Mahadik Version 1.0</string>
+</resources>

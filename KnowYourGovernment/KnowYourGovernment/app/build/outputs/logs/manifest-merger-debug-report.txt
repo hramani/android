@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:6:5-78
+	android:name
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:7:5-34:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\shrad\.android\build-cache\45c973accd35b116e39415f4939336a127dc37c9\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\shrad\.android\build-cache\e084c57bf75943c8f361ba3bd7ec686b1053e179\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\shrad\.android\build-cache\d4140246f8e8c10a460af1381984d88b3367ad07\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\shrad\.android\build-cache\77d008782bfd84b8011f20b03df2d3524296d767\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\shrad\.android\build-cache\a488dd90fdbffe88be5278da36fe6c4e00f14ee1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\shrad\.android\build-cache\d6f41821a914b7b9afaf36e699318e78a8f68ad7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\shrad\.android\build-cache\15f4fe458699d5206c92e72edacdef92f656f68b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\shrad\.android\build-cache\6bb805f14cf05697d1f836cbcae78c75bb4919b0\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\shrad\.android\build-cache\3a01e5b1e43af1cb2dc2205d3be1ed1c7250148b\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\shrad\.android\build-cache\b370c3341c6f6c7805af87ad03f52973356e2230\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:12:9-40
+activity#com.example.shrad.knowyourgovernment.MainActivity
+ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:13:9-18:20
+	android:name
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.shrad.knowyourgovernment.AboutActivity
+ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:19:9-23:20
+	android:parentActivityName
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:19:49-91
+	android:name
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:19:19-48
+intent-filter#android.intent.category.LAUNCHER
+ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:20:13-22:29
+activity#com.example.shrad.knowyourgovernment.OfficialsActivity
+ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:24:9-28:20
+	android:parentActivityName
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:24:53-95
+	android:name
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:24:19-52
+activity#com.example.shrad.knowyourgovernment.PhotoActivity
+ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:29:9-33:20
+	android:parentActivityName
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:29:49-96
+	android:name
+		ADDED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml:29:19-48
+uses-sdk
+INJECTED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\shrad\.android\build-cache\45c973accd35b116e39415f4939336a127dc37c9\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\shrad\.android\build-cache\e084c57bf75943c8f361ba3bd7ec686b1053e179\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\shrad\.android\build-cache\d4140246f8e8c10a460af1381984d88b3367ad07\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\shrad\.android\build-cache\77d008782bfd84b8011f20b03df2d3524296d767\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\shrad\.android\build-cache\a488dd90fdbffe88be5278da36fe6c4e00f14ee1\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\shrad\.android\build-cache\d6f41821a914b7b9afaf36e699318e78a8f68ad7\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\shrad\.android\build-cache\15f4fe458699d5206c92e72edacdef92f656f68b\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\shrad\.android\build-cache\6bb805f14cf05697d1f836cbcae78c75bb4919b0\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\shrad\.android\build-cache\dcaeeba3f348614499b9e8707c670102188c486c\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\shrad\.android\build-cache\3a01e5b1e43af1cb2dc2205d3be1ed1c7250148b\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\shrad\.android\build-cache\b370c3341c6f6c7805af87ad03f52973356e2230\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\shrad\.android\build-cache\45c973accd35b116e39415f4939336a127dc37c9\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\shrad\Desktop\Shraddha\CS 442 MAD\Assignments\Assignment 5\KnowYourGovernment\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\shrad\.android\build-cache\45c973accd35b116e39415f4939336a127dc37c9\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\shrad\.android\build-cache\e084c57bf75943c8f361ba3bd7ec686b1053e179\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\shrad\.android\build-cache\d4140246f8e8c10a460af1381984d88b3367ad07\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\shrad\.android\build-cache\77d008782bfd84b8011f20b03df2d3524296d767\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\shrad\.android\build-cache\a488dd90fdbffe88be5278da36fe6c4e00f14ee1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\shrad\.android\build-cache\d6f41821a914b7b9afaf36e699318e78a8f68ad7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\shrad\.android\build-cache\15f4fe458699d5206c92e72edacdef92f656f68b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] C:\Users\shrad\.android\build-cache\dcaeeba3f348614499b9e8707c670102188c486c\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\shrad\.android\build-cache\3a01e5b1e43af1cb2dc2205d3be1ed1c7250148b\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\shrad\.android\build-cache\b370c3341c6f6c7805af87ad03f52973356e2230\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\shrad\.android\build-cache\45c973accd35b116e39415f4939336a127dc37c9\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\shrad\.android\build-cache\45c973accd35b116e39415f4939336a127dc37c9\output\AndroidManifest.xml:26:9-47

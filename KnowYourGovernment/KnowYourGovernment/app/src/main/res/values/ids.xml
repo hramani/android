@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="help" type="id">string</item>
+    <item name="about" type="id">string</item>
+    <item name="location" type="id">string</item>
+    <item name="address" type="id">string</item>
+    <item name="addressvalu" type="id">string</item>
+    <item name="phone" type="id">string</item>
+    <item name="phoneno" type="id">string</item>
+    <item name="email" type="id">string</item>
+    <item name="emailid" type="id">string</item>
+    <item name="website" type="id">string</item>
+    <item name="webaddress" type="id">string</item>
+    <item name="photo" type="id">string</item>
+    <item name="office" type="id">string</item>
+    <item name="name" type="id">string</item>
+    <item name="party" type="id">string</item>
+    <item name="enterLoc" type="id">string</item>
+    <item name="about_button" type="id">string</item>
+    <item name="list" type="id">string</item>
+    <item name="office1" type="id">string</item>
+    <item name="official_name" type="id">string</item>
+    <item name="youtube" type="id">string</item>
+    <item name="twitter" type="id">string</item>
+    <item name="gplus" type="id">string</item>
+    <item name="fb" type="id">string</item>
+    <item name="ScollView1" type="id" />
+    <item name="fullscreen" type="id">String</item>
+    <item name="FullView" type="id">String</item>
+    <item name="separator" type="id">string</item>
+</resources>
